@@ -1,0 +1,10 @@
+.image-thumb {
+  opacity: 0.075;
+  filter: blur(5px);
+  transition: all 300ms;
+}
+
+.image-thumb:hover {
+  opacity: 1;
+  filter: none;
+}
