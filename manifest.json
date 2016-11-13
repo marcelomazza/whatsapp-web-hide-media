@@ -8,7 +8,8 @@
     "default_icon": {
       "19": "icon19x19.png",
       "38": "icon38x38.png"
-    }
+    },
+    "default_title": "Hiding media on WhatsApp Web, hover to see it"
   },
   "content_scripts": [
     {
