@@ -1,6 +1,6 @@
 {
 	"manifest_version": 2,
-	"name": "WhatsApp Web - Hide media",
+	"name": "WhatsApp Web Hide Media",
 	"description": "Hide media, hover to see it",
 	"version": "1.0",
 	"permissions": ["https://web.whatsapp.com/"],
