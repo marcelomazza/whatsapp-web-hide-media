@@ -9,7 +9,6 @@
 			"matches": [
 				"https://web.whatsapp.com/*"
 			],
-			"js": ["inject.js"],
 			"css": ["style.css"]
 		}
 	]
