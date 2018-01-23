@@ -2,7 +2,9 @@
 .video-thumb,
 ._3FDzO,
 ._3ssLP,
-.link-preview-container, .quoted-msg-image,
+._1umJf,
+.link-preview-container,
+.quoted-msg-image,
 .message-image img {
   opacity: 0.075;
   filter: blur(5px);
@@ -13,7 +15,9 @@
 .video-thumb:hover,
 ._3FDzO:hover,
 ._3ssLP:hover,
-.link-preview-container:hover, .quoted-msg-image:hover,
+._1umJf:hover,
+.link-preview-container:hover,
+.quoted-msg-image:hover,
 .message-image:hover img {
   opacity: 1;
   filter: none;
