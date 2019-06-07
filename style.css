@@ -6,7 +6,10 @@
 ._3v3PK,
 .link-preview-container,
 .quoted-msg-image,
-.message-image img {
+.message-image img,
+._3fmQw,
+._2B3Ci,
+._3KBs6 {
   opacity: 0.075;
   filter: blur(5px);
   transition: all 300ms;
@@ -20,7 +23,10 @@
 ._3v3PK:hover,
 .link-preview-container:hover,
 .quoted-msg-image:hover,
-.message-image:hover img {
+.message-image:hover img,
+._3fmQw:hover,
+._2B3Ci:hover,
+._3KBs6:hover {
   opacity: 1;
   filter: none;
 }
