@@ -9,7 +9,9 @@
 .message-image img,
 ._3fmQw,
 ._2B3Ci,
-._3KBs6 {
+._3KBs6,
+._18vxA,
+._1Bw-K {
   opacity: 0.075;
   filter: blur(5px);
   transition: all 300ms;
@@ -26,7 +28,9 @@
 .message-image:hover img,
 ._3fmQw:hover,
 ._2B3Ci:hover,
-._3KBs6:hover {
+._3KBs6:hover,
+._18vxA:hover,
+._1Bw-K:hover {
   opacity: 1;
   filter: none;
 }
