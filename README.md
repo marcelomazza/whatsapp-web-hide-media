@@ -1,3 +1,6 @@
+# This extension is not supported anymore
+Please check this great alternative [Privacy Extension For WhatsApp Web](https://chrome.google.com/webstore/detail/privacy-extension-for-wha/jbojhlhhggfmmkpefknmbdhlaghehini)
+
 # WhatsApp Web Hide Media - Chrome extension
 
 Chrome extension for WhatsApp Web. Hides media (images, videos and link previews) on WhatsApp Web. You just need to hover to see it.
